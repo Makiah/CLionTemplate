@@ -1,7 +1,3 @@
-//
-// Created by Makiah Bennett on 10/2/19.
-//
-
 #include "gtest/gtest.h"
 
 int main(int argc, char **argv) {

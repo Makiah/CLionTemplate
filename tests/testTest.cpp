@@ -1,7 +1,3 @@
-//
-// Created by Makiah Bennett on 10/2/19.
-//
-
 #include "gtest/gtest.h"
 #include "../src/test.h"
 
